@@ -1,6 +1,6 @@
 <br>Nama : Muhammad Fadhil Fakhrusyakirin<br/>
 <br>NPM  : 20081010216<br/>
-<br>kelas: Riset Informatika D
+<br>kelas: Riset Informatika D <br/>
 
 # <h2>Topik : Pengelolan Citra Digital (Face Recognition) Dengan Deep Learning <h2/>
 
@@ -10,7 +10,7 @@
 <li>Apa saja manfaat jika menggunakan Face Recognition untuk absensi?</li>
 <li>Bagaimana cara Convolutional Neural Network (CNN) mengklasifikasi wajah secara realtime dengan akurat?</li>
 <li>Apakah Sistem absensi Face Recognition lebih effisien dari pada absensi sidik jari ?</li>
-<li>Apakah Performa Face Recognition lebih baik dibandingkan absensi sidik jari??</li>
+<li>Apakah Performa Face Recognition lebih baik dibandingkan absensi sidik jari?</li>
 <li>Apa saja Faktor - Faktor yang mempengaruhi pegawai telat melakukan absensi?</li>
 
 # Teori 
