@@ -7,11 +7,11 @@
 # <h3>Riset : Face Recognition untuk absensi Pegawai menggunakan metode CNN (CONVOLUTIONAL NEURAL NETWORK) (.<h3/>
 
 # Research Question
-<li>Apa saja manfaat jika menggunakan Face Recognition untuk absensi?<li/>
-<li>Bagaimana cara Convolutional Neural Network (CNN) mengklasifikasi wajah secara realtime dengan akurat?<li/>
-<li>Apakah Sistem absensi Face Recognition lebih effisien dari pada absensi sidik jari ?<li/>
-<li>Apa saja Faktor - Faktor yang mempengaruhi pegawai telat melakukan absensi?<li/>
-<li>Apakah Performa Face Recognition lebih baik dibandingkan absensi sidik jari??<li/>
+<li>Apa saja manfaat jika menggunakan Face Recognition untuk absensi?</li>
+<li>Bagaimana cara Convolutional Neural Network (CNN) mengklasifikasi wajah secara realtime dengan akurat?</li>
+<li>Apakah Sistem absensi Face Recognition lebih effisien dari pada absensi sidik jari ?</li>
+<li>Apakah Performa Face Recognition lebih baik dibandingkan absensi sidik jari??</li>
+<li>Apa saja Faktor - Faktor yang mempengaruhi pegawai telat melakukan absensi?</li>
 
 # Teori 
 <h3>CNN ( CONVOLUTIONAL NEURAL NETWORK)</h3>
