@@ -5,3 +5,14 @@
 
 # Metodologi
 <h1>Metodologi adalah studi tentang metode-metode yang digunakan dalam penelitian tertentu atau studi ilmiah. Ini melibatkan pemahaman mendalam tentang prinsip-prinsip yang mendasari pemilihan metode tertentu, analisis data, dan interpretasi hasil. Metodologi mencakup pemikiran kritis tentang pendekatan yang diadopsi dalam suatu disiplin, termasuk pemahaman tentang kelebihan dan kekurangan masing-masing metode.<h1/>
+
+# Paper yang menggunakan Metode / Metodologi
+- Sistem Presensi Pegawai dengan Face Recognition Menggunakan Deep Learning CNN
+https://ojs.uajy.ac.id/index.php/jiaj/article/view/7660
+- PENERAPAN FACE RECOGNITION DENGAN ALGORITMA VIOLA JONES DALAM SISTEM PRESENSI KEHADIRAN SISWA DAN GURU PADA SEKOLAH IDN BOARDING SCHOOL JONGGOL
+http://www.journal.amikindonesia.ac.id/index.php/jimik/article/view/398
+
+
+# Implementasi Pada Riset
+- CNN : Untuk implementasi face recognition menggunakan Convolutional Neural Network (CNN), langkah pertama adalah mempersiapkan dataset wajah dengan melakukan preprocessing. Selanjutnya, dengan menggunakan TensorFlow atau PyTorch, dibuatlah model CNN yang terdiri dari lapisan-lapisan konvolusi dan fully connected layers. Setelahnya, model dilatih dengan dataset yang telah dipersiapkan sebelumnya, dievaluasi performanya menggunakan dataset validasi, dan kemudian dapat diimplementasikan untuk face recognition pada data baru atau dalam aplikasi yang relevan. Selain itu, pastikan untuk menyesuaikan kode dengan dataset dan konfigurasi model yang digunakan agar sesuai dengan kebutuhan spesifik.
+- Algoritma Viola Jones : Algoritma Viola-Jones adalah metode deteksi wajah yang memanfaatkan fitur integral dan kaskade klasifier untuk mengenali objek dalam gambar. Prosesnya melibatkan pengumpulan dataset wajah dan non-wajah, ekstraksi fitur Haar-like dari citra integral, pelatihan klasifier dengan Adaboost, serta pembuatan kaskade klasifier. Dalam implementasinya dengan Python dan OpenCV, Anda dapat menggunakan pre-trained model seperti haarcascade_frontalface_default.xml untuk mendeteksi wajah dalam gambar dengan menggunakan metode detectMultiScale. Hal ini memungkinkan deteksi wajah dengan menandai area yang sesuai dengan kriteria wajah yang telah dipelajari.
